@@ -61,7 +61,7 @@ function init() {
       });
     })
     .catch((error) => {
-      console.error('Error in inquirer:', error);
+      console.error('Error in inquirer:', error); 
     });
 }
 
