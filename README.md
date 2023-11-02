@@ -1,4 +1,4 @@
-# 10 Object-oriented Programming: SVG Logo Maker
+# SVG Logo Maker
 
 ## Description
 
@@ -20,6 +20,9 @@ TO install this, install an IDE (I use VSCODE). This will allow you to have the 
 ## Usage
 
 When you follow the prompts for questions you hen will be presented with an svg file named 'logo.svg in the lib folder in the inputs folder' then you can see your logo. Ensure you have the svg extension installed with your IDE to preview the logo easily. If you want to try a different logo out just run the node command again and you can reset your answers.
+
+<img width="684" alt="SVG" src="https://github.com/HenegarCodes/SVG-Logo-Maker/assets/78831747/34536d58-1e99-4100-aae6-3b2474097f8f">
+
 
 ## Credits
 
